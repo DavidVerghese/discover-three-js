@@ -25,7 +25,7 @@ function SceneContainer() {
 
 
   return <div ref={ref} id="scene-container">
-
+      
   </div>
 }
 export default SceneContainer;
